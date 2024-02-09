@@ -1,0 +1,72 @@
+[
+    {
+        "ism": "Thomas",
+        "familiya": "Boyd",
+        "yosh": 18,
+        "kasb": "Community pharmacist",
+        "manzil": "83876 Garcia Corner Suite 014\nWest Mary, HI 74525"
+    },
+    {
+        "ism": "Keith",
+        "familiya": "Odonnell",
+        "yosh": 38,
+        "kasb": "Quarry manager",
+        "manzil": "96454 Logan Flat\nNew Tonya, ID 92377"
+    },
+    {
+        "ism": "Kimberly",
+        "familiya": "Escobar",
+        "yosh": 57,
+        "kasb": "Environmental manager",
+        "manzil": "404 Moreno Turnpike Suite 429\nEvanport, NE 16351"
+    },
+    {
+        "ism": "Dalton",
+        "familiya": "Norman",
+        "yosh": 27,
+        "kasb": "Medical secretary",
+        "manzil": "USS Sullivan\nFPO AE 16980"
+    },
+    {
+        "ism": "Charles",
+        "familiya": "Ayala",
+        "yosh": 55,
+        "kasb": "Airline pilot",
+        "manzil": "21430 Steven Manor Apt. 049\nLatashaton, ND 41213"
+    },
+    {
+        "ism": "Evan",
+        "familiya": "Sloan",
+        "yosh": 23,
+        "kasb": "Cabin crew",
+        "manzil": "149 Martin Meadow Suite 529\nLake Amandaborough, MT 50268"
+    },
+    {
+        "ism": "Eric",
+        "familiya": "Cunningham",
+        "yosh": 59,
+        "kasb": "Public affairs consultant",
+        "manzil": "043 Kaitlyn Streets\nNew Janettown, CA 13178"
+    },
+    {
+        "ism": "Kelly",
+        "familiya": "Kennedy",
+        "yosh": 38,
+        "kasb": "Dentist",
+        "manzil": "Unit 3714 Box 2491\nDPO AE 91908"
+    },
+    {
+        "ism": "Joseph",
+        "familiya": "Kelly",
+        "yosh": 44,
+        "kasb": "Teacher, music",
+        "manzil": "033 Joseph Neck Suite 583\nLiuland, ND 25811"
+    },
+    {
+        "ism": "Amanda",
+        "familiya": "Barnes",
+        "yosh": 70,
+        "kasb": "Farm manager",
+        "manzil": "4124 Brian Courts\nPort Ashley, OK 77263"
+    }
+]
